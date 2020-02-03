@@ -1,0 +1,225 @@
+.div-tiyan{
+	width: 70%;
+	height: 500px;
+	margin: 0 auto;
+	/* background-color: #0000FF; */
+}
+.div-tiyan-left{
+	width: 56%;
+	height: 100%;
+	float: left;
+	/* background-color: #F01400; */
+}
+.div-tiyan-right{
+	width: 38%;
+	height: 100%;
+	float: right;
+	background-color: #F01400;
+}
+.div-tiyan-left-tag1{
+	width: 100%;
+	height: 110px;
+	/* background-color: #CCCCCC; */
+	line-height: 110px;
+	font-size: 40px;
+	color: #8A8A8A;
+	text-indent: 200px;
+	background: url(../../img/weitu.png) left center no-repeat;
+	background-size: 100px 100px;
+	/* position: absolute; */
+	/* top: 50%; */
+	/* margin-top: -55px; */
+	left: 20px;
+}
+.div-tiyan-left-tag2{
+	width: 100%;
+	height: 110px;
+	/* background-color: #CCCCCC; */
+	line-height: 110px;
+	font-size: 40px;
+	color: #8A8A8A;
+	text-indent: 200px;
+	background: url(../../img/weitu2.png) left center no-repeat;
+	background-size: 100px 100px;
+	/* position: absolute; */
+	/* top: 50%; */
+	/* margin-top: -55px; */
+	left: 20px;
+}
+.div-tiyan-left-tag3{
+	width: 100%;
+	height: 110px;
+	/* background-color: #CCCCCC; */
+	line-height: 110px;
+	font-size: 40px;
+	color: #8A8A8A;
+	text-indent: 200px;
+	background: url(../../img/weitu3.png) left center no-repeat;
+	background-size: 100px 100px;
+	/* position: absolute; */
+	/* top: 50%; */
+	/* margin-top: -55px; */
+	left: 20px;
+}
+.div-weilai{
+	width: 100%;
+	height: 600px;
+	background-color: #CCCCCC;
+}
+.div-weilai-left{
+	width: 48%;
+	height: 100%;
+	
+	float: left;
+}
+.div-weilai-right{
+	width: 52%;
+	height: 100%;
+	/* background-color: #0000FF; */
+	background-image: url(../../img/矩形.png);
+	background-size: cover;
+	float: right;
+}
+.div-weilai-right-text{
+	height: 85%;
+	width: 58%;
+	/* background-color: #F01400; */
+}
+.div-PBL{
+	width: 75%;
+	height: 270px;
+	/* background-color: #381B61; */
+	margin: 0 auto;
+}
+.div-PBL-tagR{
+	width: 47%;
+	height: 100%;
+	
+	float: right;
+	border-radius: 30px;
+	border: 5px solid #4146FB;
+	
+}
+.div-PBL-tagL{
+	width: 47%;
+	height: 100%;
+	float: left;
+	border-radius: 30px;
+	border: 5px solid #FFAB00;
+}
+.div-PBL-tag-text{
+	width: 90%;
+	height: 80%;
+	margin: 0 auto;
+	/* background-color: #CCCCCC; */
+	margin-top: 28px;
+}
+.div-shehui{
+	width: 100%;
+	height: 570px;
+	/* background-color: red; */
+	background-image: url(../../img/矩形%202.png) ;
+	background-size: cover;
+}
+.div-shehui-right{
+	width: 48%;
+	height: 100%;
+	/* background-color: bisque; */
+	float: right;
+}
+.div-shehui-left{
+	width: 52%;
+	height: 100%;
+	
+	float: left;
+}
+.div-shehui-left-text{
+	height: 85%;
+	width: 68%;
+	
+	/* background-color: #F01400; */
+}
+.div-dibu{
+	width: 100%;
+	height: 400px;
+	background-color: #262626;
+	overflow: hidden;
+}
+
+.div-dibu-down{
+	width: 70%;
+	height: 70%;
+	/* background-color: #7FFFD4; */
+	margin: 0 auto;
+}
+.div-dibu-left{
+	width: 42%;
+	height: 95%;
+	/* background-color: #0000FF; */
+	float: left;
+	border-right:3px solid white
+}
+.div-dibu-left-tag{
+	display: flex;
+	width: 100%;
+	height: 28%;
+	/* background-color: #FFAB00; */
+	align-items: center;
+}
+.div-dibu-left-tag-pic{
+	width: 60px !important;
+	margin-right: 35px;
+}
+.div-dibu-left-tag-name{
+	font-size: 18px;
+	color: white;
+}
+.div-dibu-left-tag-cixun{
+	display: flex;
+	height: 50px;
+	width: 180px;
+	margin-left: 20px;
+	background-color: yellow;
+	align-items: center;
+	border-radius: 40px;
+	
+}
+.div-dibu-left-tag-cixun-name{
+	font-size: 20px;
+	color: black;
+	text-indent: 60px;
+	
+}
+
+.div-dibu-right{
+	width: 48%;
+	height: 95%;
+	/* background-color: #0000FF; */
+	float: right;
+	
+}
+.div-dibu-right-tag{
+	display: block;
+	width: 27%;
+	height: 259px;
+	margin: 2% 0 0 4.5%;
+	float: left;
+}
+.zt-context{
+	font-size: 17px;
+	font-weight: 300;
+	color: #FFFFFF;
+}
+.zt-title{
+	font-size: 25px;
+	font-weight: 400;
+	color: #FFFFFF;
+}
+.div-dibu-ICP{
+	width: 100%;
+	height: 14%;
+	background-color: #1F1F1F;
+	line-height: 56px;
+	font-size: 14px;
+	text-indent: 400px;
+}

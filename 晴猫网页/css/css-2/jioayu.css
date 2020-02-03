@@ -1,0 +1,153 @@
+.div-jiaoyubu{
+	width: 100%;
+	height: 400px;
+	background-color: #ADC3FA;
+	overflow: hidden;
+}
+.div-jioayubu-mid{
+	width: 65%;
+	height: 80%;
+	/* background-color: #00E8F7; */
+	margin: 0 auto;
+}
+.div-jioayubu-mid-left{
+	width: 60%;
+	height: 90%;
+	/* background-color: #00F73D; */
+	float: left;
+}
+.div-jioayubu-mid-left-bottom{
+	width: 100%;
+	height: 140px;
+	/* background-color: #666666; */
+}
+.div-jioayubu-mid-left-bottom-tag{
+	width: 100%;
+	height: 40px;
+	/* background-color: #CCCCCC; */
+	line-height: 40px;
+	font-size: 18px;
+	color: white;
+	text-indent: 70px;
+	background: url(../../img/weitu.png) left center no-repeat;
+	background-size: 50px 50px;
+	/* position: absolute; */
+	/* top: 50%; */
+	/* margin-top: -55px; */
+	left: 20px;
+}
+
+.div-PBL{
+	width: 75%;
+	height: 200px;
+	/* background-color: #381B61; */
+	margin: 0 auto;
+}
+.div-PBL-tagR{
+	width: 47%;
+	height: 100%;
+	
+	float: right;
+	border-radius: 30px;
+	border: 5px solid #4146FB;
+	
+}
+.div-PBL-tagL{
+	width: 47%;
+	height: 100%;
+	float: left;
+	border-radius: 30px;
+	border: 5px solid #FFAB00;
+}
+.div-PBL-tag-text{
+	width: 90%;
+	height: 80%;
+	margin: 0 auto;
+	/* background-color: #CCCCCC; */
+	margin-top: 12px;
+}
+
+.div-dibu{
+	width: 100%;
+	height: 400px;
+	background-color: #262626;
+	overflow: hidden;
+}
+
+.div-dibu-down{
+	width: 70%;
+	height: 70%;
+	/* background-color: #7FFFD4; */
+	margin: 0 auto;
+}
+.div-dibu-left{
+	width: 42%;
+	height: 95%;
+	/* background-color: #0000FF; */
+	float: left;
+	border-right:3px solid white
+}
+.div-dibu-left-tag{
+	display: flex;
+	width: 100%;
+	height: 28%;
+	/* background-color: #FFAB00; */
+	align-items: center;
+}
+.div-dibu-left-tag-pic{
+	width: 60px !important;
+	margin-right: 35px;
+}
+.div-dibu-left-tag-name{
+	font-size: 18px;
+	color: white;
+}
+.div-dibu-left-tag-cixun{
+	display: flex;
+	height: 50px;
+	width: 180px;
+	margin-left: 20px;
+	background-color: yellow;
+	align-items: center;
+	border-radius: 40px;
+	
+}
+.div-dibu-left-tag-cixun-name{
+	font-size: 20px;
+	color: black;
+	text-indent: 60px;
+	
+}
+
+.div-dibu-right{
+	width: 48%;
+	height: 95%;
+	/* background-color: #0000FF; */
+	float: right;
+	
+}
+.div-dibu-right-tag{
+	display: block;
+	width: 27%;
+	height: 259px;
+	margin: 2% 0 0 4.5%;
+	float: left;
+}
+.zt-context{
+	font-size: 17px;
+	font-weight: 300;
+	color: #FFFFFF;
+}
+.zt-title{
+	font-size: 25px;
+	font-weight: 400;
+	color: #FFFFFF;
+}
+.div-dibu-ICP{
+	width: 100%;
+	height: 14%;
+	background-color: #1F1F1F;
+	line-height: 56px;
+	font-size: 14px;
+	text-indent: 400px;
+}
