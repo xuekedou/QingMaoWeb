@@ -32,13 +32,18 @@ body{
     font-size: 16px;
 }
 
-div.site{
+/* div.site{
+    overflow: hidden;
+} */
+div.jishufuwu{
     overflow: hidden;
 }
 
 div.wrapper {
     position: relative;
     width: 75rem;
+	/* width: 70rem; */
+	/* background-color: #000000; */
 }
 div.wrapper.demo1 {
     margin: 60px auto 0 auto;
@@ -61,8 +66,10 @@ div.wrapper>h3{
 div.wrapper>ul.container {
     position: relative;
     height: 25rem;
+	/* width: 90rem; */
     margin: 0 auto;
     transform: translate3d(0,0,0);
+	/* background-color: #002DF7; */
 }
 div.wrapper ul.container>li.cards_list {
     border-radius: 1rem;//

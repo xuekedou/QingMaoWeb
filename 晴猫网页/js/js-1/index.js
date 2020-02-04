@@ -13,9 +13,9 @@ $(function(){
      */
     swiper.init($(".swiper-main"),
     [
-        "./img/lunbbodown.png",
-        "./img/lunbbodown.png",
-		"./img/lunbbodown.png",
+        "./img/lunbodown.png",
+        "./img/lunbodown.png",
+		"./img/lunbodown.png",
     ],
     {
          // ismobile: false,//可选，不填则自动判断客户端，默认false - true / false(PC端/移动端)

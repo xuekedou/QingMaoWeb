@@ -3,7 +3,9 @@
 				height:563px;
 				overflow:hidden;
 				position:relative;
+				/* position:absolute; */
 				margin:20px auto;
+			
 			}
 			.target img {
 				position:absolute;
