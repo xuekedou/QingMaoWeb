@@ -153,7 +153,7 @@ a:hover {
 }
 
 .solution-item {
-	height: 660px;//
+	height: 660px;
 	
     /* margin-left: 300px; */
 	/* margin-top: 500px; */
@@ -337,4 +337,13 @@ a:hover {
 
 .solution-item ul {
     display: none;
+}
+
+.color-inherit {
+    color: inherit;
+}
+
+.no-active:hover,
+.no-active:focus {
+	color: inherit;
 }

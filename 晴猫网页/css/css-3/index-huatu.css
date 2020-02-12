@@ -23,7 +23,7 @@ i{
 html,
 body {
     width: 100%;
-    min-width: 1240px;
+    min-width: 1440px;
 }
 
 body{
@@ -75,7 +75,7 @@ div.wrapper.demo1>ul.container {
     transform: translate3d(0,0,0);
 }
 div.wrapper ul.container>li.cards_list {
-    border-radius: 1rem;//
+    border-radius: 1rem;
     background-color: #f4f4f4;
     overflow: hidden;
 }

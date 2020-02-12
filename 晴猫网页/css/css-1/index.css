@@ -1,39 +1,44 @@
-body{}
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.swiper-main{
-    width: 1440px;
+
+.swiper-main {
+    width: 100%;
     height: 310px;
     background: #000000;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
 }
-.swiper-content{
+
+.swiper-content {
     width: 100%;
     height: 100%;
     position: relative;
 }
-.swiper-item{
+
+.swiper-item {
     width: 100%;
     height: 100%;
     position: absolute;
     left: 0;
     top: 0;
 }
-.swiper-item img{
+
+.swiper-item img {
     width: 100%;
     display: block;
 }
-.swiper-point{
+
+.swiper-point {
     position: absolute;
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
 }
-.swiper-circle{
+
+.swiper-circle {
     float: left;
     width: 15px;
     height: 15px;
@@ -42,10 +47,12 @@ body{}
     margin: 0 5px;
     cursor: pointer;
 }
-.current-point{
+
+.current-point {
     background-color: #000;
 }
-.swiper-arrow{
+
+.swiper-arrow {
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -58,15 +65,18 @@ body{}
     margin-top: auto;
     margin-bottom: auto;
 }
-.swiper-arrow img{
+
+.swiper-arrow img {
     display: block;
     width: 70px;
     height: 70px;
     margin: 15px auto;
 }
-.arrow-left{
+
+.arrow-left {
     left: 30px;
 }
-.arrow-right{
+
+.arrow-right {
     right: 30px;
 }

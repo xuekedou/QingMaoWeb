@@ -249,3 +249,12 @@ a:hover {
 .prev-bg:hover {
 	background-image: url(../../img/btn-fl2.png);
 }
+
+.color-inherit {
+    color: inherit;
+}
+
+.no-active:hover,
+.no-active:focus {
+	color: inherit;
+}
